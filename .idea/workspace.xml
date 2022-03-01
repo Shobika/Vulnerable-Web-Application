@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="2b8752ac-a037-4377-a6f3-e8a332ed1655" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SQL/sql6.php" beforeDir="false" afterPath="$PROJECT_DIR$/SQL/sql6.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -367,7 +368,14 @@
       <option name="project" value="LOCAL" />
       <updated>1646162462760</updated>
     </task>
-    <option name="localTasksCounter" value="45" />
+    <task id="LOCAL-00045" summary="New change">
+      <created>1646163383513</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1646163383513</updated>
+    </task>
+    <option name="localTasksCounter" value="46" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -380,30 +388,30 @@
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
     <state x="360" y="222" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1792.1120@0.0.1792.1120" timestamp="1645553002844" />
-    <state x="464" y="115" key="CommitChangelistDialog2" timestamp="1646162462612">
+    <state x="464" y="115" key="CommitChangelistDialog2" timestamp="1646163383299">
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
-    <state x="464" y="115" key="CommitChangelistDialog2/0.0.1792.1120@0.0.1792.1120" timestamp="1646162462612" />
+    <state x="464" y="115" key="CommitChangelistDialog2/0.0.1792.1120@0.0.1792.1120" timestamp="1646163383299" />
     <state x="464" y="127" key="CommitChangelistDialog2/0.23.1792.1013@0.23.1792.1013" timestamp="1645217137275" />
     <state x="464" y="127" key="CommitChangelistDialog2/0.23.1792.1015@0.23.1792.1015" timestamp="1646075753392" />
     <state x="397" y="199" key="SettingsEditor" timestamp="1645553221314">
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
     <state x="397" y="199" key="SettingsEditor/0.0.1792.1120@0.0.1792.1120" timestamp="1645553221314" />
-    <state x="496" y="272" key="Vcs.Push.Dialog.v2" timestamp="1646162477064">
+    <state x="496" y="272" key="Vcs.Push.Dialog.v2" timestamp="1646163407246">
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
-    <state x="496" y="272" key="Vcs.Push.Dialog.v2/0.0.1792.1120@0.0.1792.1120" timestamp="1646162477064" />
+    <state x="496" y="272" key="Vcs.Push.Dialog.v2/0.0.1792.1120@0.0.1792.1120" timestamp="1646163407246" />
     <state x="496" y="269" key="Vcs.Push.Dialog.v2/0.23.1792.1013@0.23.1792.1013" timestamp="1645217141605" />
     <state x="496" y="269" key="Vcs.Push.Dialog.v2/0.23.1792.1015@0.23.1792.1015" timestamp="1646075774591" />
     <state x="122" y="380" key="com.intellij.ide.util.TipDialog" timestamp="1646161606531">
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
     <state x="122" y="380" key="com.intellij.ide.util.TipDialog/0.0.1792.1120@0.0.1792.1120" timestamp="1646161606531" />
-    <state x="533" y="358" key="git4idea.merge.GitPullDialog" timestamp="1646162808926">
+    <state x="533" y="358" key="git4idea.merge.GitPullDialog" timestamp="1646163399536">
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
-    <state x="533" y="358" key="git4idea.merge.GitPullDialog/0.0.1792.1120@0.0.1792.1120" timestamp="1646162808926" />
+    <state x="533" y="358" key="git4idea.merge.GitPullDialog/0.0.1792.1120@0.0.1792.1120" timestamp="1646163399536" />
     <state x="533" y="347" key="git4idea.merge.GitPullDialog/0.23.1792.1015@0.23.1792.1015" timestamp="1646075435247" />
   </component>
 </project>
